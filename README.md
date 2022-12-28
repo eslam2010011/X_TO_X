@@ -2,6 +2,23 @@
 
 Installation 📥
 -------
+What is X_TO_X?
+
+Such as
+-company name
+-website_url
+-linkedin_url
+-facebook_url
+-industry
+-address
+-short_description
+
+Employees
+-name
+-title
+-linkedin_url
+-email
+-photo_url
 
 - `git clone https://github.com/eslam2010011/X_TO_X.git`
 - `cd X_TO_X`
