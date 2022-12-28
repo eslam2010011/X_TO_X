@@ -5,7 +5,8 @@ Installation 📥
 What is X_TO_X?
 
 Such as
--company name
+Company Information
+-company_name
 -website_url
 -linkedin_url
 -facebook_url
