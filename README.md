@@ -1,5 +1,5 @@
 # X_TO_X
-X_TO_X is a Python tool designed to information gathering about target companies for the Red Team
+X_TO_X is a Python tool designed to information gathering about target company  for the Red Team
 
 
 Company Information
