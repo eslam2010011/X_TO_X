@@ -1,9 +1,7 @@
 # X_TO_X
 
-Installation 📥
--------
 What is X_TO_X?
-
+X_TO_X is a Python tool designed to information gathering about target companies for the Red Team
 Company Information
 - `company_name `
 - `website_url `
