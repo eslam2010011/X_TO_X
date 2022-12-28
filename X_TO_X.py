@@ -33,7 +33,7 @@ def print_banner():
 def args():
     parser = argparse.ArgumentParser(description="")
     parser.add_argument("-d", "--domain", dest="domain", default=None,
-                        help="Input a domain")
+                        help="Domain name")
     parser.add_argument("-l", "--list", dest="list", default="a", choices=['j', 'p', 'a', 'o'],
                         help='list all (a), jobs (j), people (p), only_Information (o)   or both (default: %(default)s)')
     args = parser.parse_args()
